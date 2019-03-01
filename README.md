@@ -33,29 +33,29 @@ Variety of curated data science and analytics courses and projects
 
 - 12 Projects That Helps You Become a Self-Driving Car Engineer (Python and C++ Code Available)
 
-  [1. Finding Lane Lines on the Road](https://github.com/ndrplz/self-driving-car/tree/master/project_1_lane_finding_basic)
+  1. [Finding Lane Lines on the Road](https://github.com/ndrplz/self-driving-car/tree/master/project_1_lane_finding_basic)
 
-  [2. Traffic Sign Classification](https://github.com/ndrplz/self-driving-car/tree/master/project_2_traffic_sign_classifier)
+  2. [Traffic Sign Classification](https://github.com/ndrplz/self-driving-car/tree/master/project_2_traffic_sign_classifier)
 
-  [3. Behavioral Cloning](https://github.com/ndrplz/self-driving-car/tree/master/project_3_behavioral_cloning)
+  3. [Behavioral Cloning](https://github.com/ndrplz/self-driving-car/tree/master/project_3_behavioral_cloning)
 
-  [4. Advanced Lane Finding](https://github.com/ndrplz/self-driving-car/tree/master/project_4_advanced_lane_finding)
+  4. [Advanced Lane Finding](https://github.com/ndrplz/self-driving-car/tree/master/project_4_advanced_lane_finding)
 
-  [5. Vehicle Detection](https://github.com/ndrplz/self-driving-car/tree/master/project_5_vehicle_detection)
+  5. [Vehicle Detection](https://github.com/ndrplz/self-driving-car/tree/master/project_5_vehicle_detection)
 
-  [6. Extended Kalman Filter](https://github.com/ndrplz/self-driving-car/tree/master/project_6_extended_kalman_filter)
+  6. [Extended Kalman Filter](https://github.com/ndrplz/self-driving-car/tree/master/project_6_extended_kalman_filter)
 
-  [7. Unscented Kalman Filter](https://github.com/ndrplz/self-driving-car/tree/master/project_7_unscented_kalman_filter)
+  7. [Unscented Kalman Filter](https://github.com/ndrplz/self-driving-car/tree/master/project_7_unscented_kalman_filter)
 
-  [8. Kidnapped Vehicle](https://github.com/ndrplz/self-driving-car/tree/master/project_8_kidnapped_vehicle)
+  8. [Kidnapped Vehicle](https://github.com/ndrplz/self-driving-car/tree/master/project_8_kidnapped_vehicle)
 
-  [9. Proportional–Integral–Derivative controller](https://github.com/ndrplz/self-driving-car/tree/master/project_9_PID_control)
+  9. [Proportional–Integral–Derivative controller](https://github.com/ndrplz/self-driving-car/tree/master/project_9_PID_control)
 
-  [10. Model predictive control ](https://github.com/ndrplz/self-driving-car/tree/master/project_10_MPC_control)
+  10. [Model predictive control ](https://github.com/ndrplz/self-driving-car/tree/master/project_10_MPC_control)
 
-  [11. Path Planning](https://github.com/ndrplz/self-driving-car/tree/master/project_11_path_planning)
+  11. [Path Planning](https://github.com/ndrplz/self-driving-car/tree/master/project_11_path_planning)
 
-  [12. Road Segmentation](https://github.com/ndrplz/self-driving-car/tree/master/project_12_road_segmentation)
+  12. [Road Segmentation](https://github.com/ndrplz/self-driving-car/tree/master/project_12_road_segmentation)
   
 - [Engineering Uncertainty Estimation in Neural Networks for Time Series Prediction at Uber](https://eng.uber.com/neural-networks-uncertainty-estimation/)
 
