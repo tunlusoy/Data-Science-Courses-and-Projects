@@ -27,6 +27,8 @@ Variety of curated data science and analytics courses and projects
 
 - [Learning from ML Experts at Google](https://ai.google/education)
 
+## Projects
+
 - [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science?specialization=aml)
 
 - 12 Projects That Helps You Become a Self-Driving Car Engineer (Python and C++ Code Available)
@@ -55,3 +57,5 @@ Variety of curated data science and analytics courses and projects
   [12. Road Segmentation](https://github.com/ndrplz/self-driving-car/tree/master/project_12_road_segmentation)
   
 - [Engineering Uncertainty Estimation in Neural Networks for Time Series Prediction at Uber](https://eng.uber.com/neural-networks-uncertainty-estimation/)
+
+- [Introduction to Deep Learning and Computer Vision - Kaggle](https://www.kaggle.com/dansbecker/exercise-intro-to-deep-learning-and-computer-vis)
