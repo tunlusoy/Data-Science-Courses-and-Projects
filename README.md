@@ -32,6 +32,7 @@ Variety of curated data science and analytics courses and projects
 - [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science?specialization=aml)
 
 - 12 Projects That Helps You Become a Self-Driving Car Engineer (Python and C++ Code Available)
+
   [1. Finding Lane Lines on the Road](https://github.com/ndrplz/self-driving-car/tree/master/project_1_lane_finding_basic)
 
   [2. Traffic Sign Classification](https://github.com/ndrplz/self-driving-car/tree/master/project_2_traffic_sign_classifier)
