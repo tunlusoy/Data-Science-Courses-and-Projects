@@ -25,6 +25,8 @@ Variety of curated data science and analytics courses and projects
 
 - [Microsoft Academy: Professional Program](https://academy.microsoft.com/en-us/professional-program/)
 
+- [Microsoft Data Science Certification](https://101.datascience.community/2019/03/07/microsoft-launches-data-science-certifications/)
+
 - [Learning from ML Experts at Google](https://ai.google/education)
 
 ## Projects
