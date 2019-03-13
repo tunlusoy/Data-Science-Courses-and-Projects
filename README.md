@@ -29,6 +29,8 @@ Variety of curated data science and analytics courses and projects
 
 - [Learning from ML Experts at Google](https://ai.google/education)
 
+- [Programming Tutorials and Practice Problems](https://www.hackerearth.com/practice/)
+
 ## Projects
 
 - [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science?specialization=aml)
