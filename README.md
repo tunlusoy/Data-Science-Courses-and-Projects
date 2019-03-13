@@ -29,6 +29,8 @@ Variety of curated data science and analytics courses and projects
 
 - [Learning from ML Experts at Google](https://ai.google/education)
 
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+
 - [Programming Tutorials and Practice Problems](https://www.hackerearth.com/practice/)
 
 ## Projects
