@@ -62,7 +62,9 @@ Variety of curated data science and analytics courses and projects
   11. [Path Planning](https://github.com/ndrplz/self-driving-car/tree/master/project_11_path_planning)
 
   12. [Road Segmentation](https://github.com/ndrplz/self-driving-car/tree/master/project_12_road_segmentation)
-  
+
+- [Python codes in Machine Learning, NLP, Deep Learning and Reinforcement Learning with Keras and Theano](https://github.com/RubensZimbres/Repo-2017/)
+
 - [Engineering Uncertainty Estimation in Neural Networks for Time Series Prediction at Uber](https://eng.uber.com/neural-networks-uncertainty-estimation/)
 
 - [Introduction to Deep Learning and Computer Vision - Kaggle](https://www.kaggle.com/dansbecker/exercise-intro-to-deep-learning-and-computer-vis)
