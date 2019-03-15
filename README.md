@@ -31,6 +31,8 @@ Variety of curated data science and analytics courses and projects
 
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
+- [Machine Learning Study Path](https://github.com/clone95/Machine-Learning-Study-Path-March-2019/)
+
 - [Programming Tutorials and Practice Problems](https://www.hackerearth.com/practice/)
 
 ## Projects
