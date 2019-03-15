@@ -35,6 +35,8 @@ Variety of curated data science and analytics courses and projects
 
 - [Programming Tutorials and Practice Problems](https://www.hackerearth.com/practice/)
 
+- [Amazon AWS Getting Started Resource Center](https://aws.amazon.com/getting-started/use-cases/?awsf.getting-started-content=use-case%23storage)
+
 ## Projects
 
 - [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science?specialization=aml)
