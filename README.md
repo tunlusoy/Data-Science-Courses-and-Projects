@@ -37,6 +37,12 @@ Variety of curated data science and analytics courses and projects
 
 - [Amazon AWS Getting Started Resource Center](https://aws.amazon.com/getting-started/use-cases/?awsf.getting-started-content=use-case%23storage)
 
+- [Super Data Science](https://www.superdatascience.com/): Kirill Eremenko provides several online courses.
+
+- [Data Analytics Boot Camp](https://bootcamp.berkeley.edu/data/): Berkeley's 24-week Data Analytics Boot Camp, short but focused.
+
+- [The Data School](https://www.youtube.com/dataschool): Kevin Markham created the Data School on YouTube, which provides hundreds of hours of data science content.
+
 ## Projects
 
 - [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science?specialization=aml)
